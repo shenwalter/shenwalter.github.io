@@ -9,14 +9,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://shenwalter.github.io/files/Walter_Shen_CV_Aug_2023.pdf #/cv/
     
   # - title: "Guide"
   #   url: /markdown/
