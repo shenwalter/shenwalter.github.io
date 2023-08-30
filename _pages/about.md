@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Walter Shen
+I’m Walter, a [PhD student](https://eps.harvard.edu/people/walter-shen) at Harvard University's Department of Earth and Planetary Sciences. My research is broadly in modeling and simulating physical processes of Earth’s atmosphere. You can find my CV [here](https://shenwalter.github.io/files/Walter_Shen_CV_Aug_2023.pdf).
 
-test test
+I am proudly Massachusetts born and raised, and I'm currently a [Social Fellow](https://engage.gsas.harvard.edu/news/282632#:~:text=Walter%20Shen) at the Student Center at Harvard Griffin GSAS. I also play violin in the Student Center Orchestra, and I enjoy singing in choir!
